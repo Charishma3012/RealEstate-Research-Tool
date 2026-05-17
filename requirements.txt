@@ -2,7 +2,7 @@ python-dotenv
 streamlit
 unstructured
 tiktoken
-protobuf
+protobuf==3.20.3
 langchain-classic
 langchain-chroma
 langchain-groq
