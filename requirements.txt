@@ -13,3 +13,6 @@ transformers
 torch
 accelerate
 chromadb
+torch
+torchvision
+torchaudio
